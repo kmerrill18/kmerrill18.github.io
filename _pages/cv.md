@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Kelsey Merrill  
-✉️ [kmerrill@csail.mit.edu](mailto:kmerrill@csail.mit.edu)
-
----
-
 ## Education  
 **Massachusetts Institute of Technology (MIT)**  
 *Cambridge, MA*  

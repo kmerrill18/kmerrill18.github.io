@@ -21,7 +21,7 @@ repository               : "kmerrill18/kmerrill18.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Kelsey Merrill"
   pronouns         : she/her # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
