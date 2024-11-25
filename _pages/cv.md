@@ -12,14 +12,14 @@ redirect_from:
 ## Education  
 **Massachusetts Institute of Technology (MIT)**  
 *Cambridge, MA*  
-M.ENG. IN ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+M.ENG. IN ELECTRICAL ENGINEERING AND COMPUTER SCIENCE  
 September 2022 - June 2023  
 - Advisor: Dr. Karen Sollins  
 - GPA: 4.8/5.0  
 
 **Massachusetts Institute of Technology (MIT)**  
 *Cambridge, MA*  
-B.S. IN ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+B.S. IN ELECTRICAL ENGINEERING AND COMPUTER SCIENCE  
 September 2018 - May 2022  
 - Minor: Economics  
 - GPA: 5.0/5.0  
