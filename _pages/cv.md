@@ -30,7 +30,7 @@ September 2018 - May 2022
 
 **Massachusetts Institute of Technology - CSAIL**  
 *Cambridge, MA*  
-ADVISOR: DR. KAREN SOLLINS
+ADVISOR: DR. KAREN SOLLINS  
 September 2022 - June 2023  
 **THESIS TITLE: “ZK-SIGSTORE: SYSTEM FOR ANONYMOUS CERTIFICATE-BASED SOFTWARE SIGNING”**  
 *2024 CHARLES & JENNIFER JOHNSON COMPUTER SCIENCE MENG THESIS AWARD*  
@@ -45,7 +45,7 @@ September 2022 - June 2023
 
 **Massachusetts Institute of Technology - Research Laboratory of Electronics**  
 *Cambridge, MA*  
-ADVISOR: DR. MURIEL MÉDARD
+ADVISOR: DR. MURIEL MÉDARD  
 Summer 2021  
 - Implemented SGRAND algorithm in C++ for universal soft network decoding  
 - Simulated network noise and SGRAND decoding in software and measured SGRAND’s performance  
