@@ -61,7 +61,7 @@ Summer 2021
 
 ## Publications  
 
-- **Kelsey Merrill**, Zachary Newman, Santiago Torres-Arias, Karen Sollins. CCS 2023. *Speranza: Usable, privacy-friendly software signing.*  
+- **Kelsey Merrill**, Zachary Newman, Santiago Torres-Arias, Karen Sollins. CCS 2023. *Speranza: Usable, privacy-friendly software signing.* [https://doi.org/10.1145/3576915.3623200](https://doi.org/10.1145/3576915.3623200)
 
 ---
 
