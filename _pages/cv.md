@@ -67,7 +67,7 @@ Summer 2021
 
 ## Presentations  
 
-- **Speranza: Usable, Privacy-Friendly Software Signing.** ACM CCS, November 2023.  
+- **Speranza: Usable, Privacy-Friendly Software Signing.** ACM CCS, November 2023. ([slides](/files/speranza_slides_ccs_2023.pdf))  
 
 ---
 
