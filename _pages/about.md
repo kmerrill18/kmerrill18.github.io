@@ -10,8 +10,7 @@ redirect_from:
 I am interested in the application of cryptographic primitives and
 protocols to practical and usable computer systems.
 
-I am currently applying to computer science PhD programs to begin in
-Fall 2025.
+I will be starting my PhD in Computer Science at Carnegie Mellon University in Fall 2025.
 
 I previously studied at MIT (MEng 2023, BS 2022) where I was advised
 by Dr. Karen Sollins. For my master's thesis, I developed
