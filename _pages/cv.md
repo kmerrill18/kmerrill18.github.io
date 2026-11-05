@@ -44,7 +44,7 @@ My broad research interests lie in the application of cryptography to solve soci
 *Pittsburgh, PA*  
 ADVISOR: DR. SARAH SCHEFFLER  
 June 2026 - present  
-**ANONYMOUS IMAGE PROVENANCE**  
+**ANONYMOUS C2PA: FEASIBILITY OF LARGE-SCALE ANONYMOUS IMAGE PROVENANCE**  
 
 - This project analyzes the technical standard for image provenance from the Coalition for Content Provenance and Authenticity (C2PA). My work first formalized the security properties the current version of C2PA claims to have. Then, I address dangerous surveillance concerns in C2PA by analyzing and formalizing the properties desirable in an ideal anonymous image provenance system. I find several fundamental incompatibilities between these properties, both from results existing in the literature in different contexts and my own novel results. Given this, I improve existing cryptographic constructions and propose candidate system architectures to achieve different versions of anonymous C2PA that make different trade-offs between these properties.  
 - Formalized security properties of C2PA v2.5 for use in cryptography proofs by systems using C2PA as a module.  
