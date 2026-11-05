@@ -10,7 +10,7 @@ redirect_from:
 I am interested in the application of cryptographic primitives and
 protocols to practical and usable computer systems for societal good.
 
-I am a PhD student in Carnegie Mellon University's Computer Science Department as of August 2025. I am advised by Dr. Sarah Scheffler.
+I am a second-year PhD student (started August 2025) in Carnegie Mellon University's Computer Science Department. I am advised by Dr. Sarah Scheffler.
 
 I previously studied at MIT (MEng 2023, BS 2022) where I was advised
 by Dr. Karen Sollins. For my master's thesis, I developed

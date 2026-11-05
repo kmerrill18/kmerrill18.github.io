@@ -10,6 +10,12 @@ redirect_from:
 {% include base_path %}
 
 ## Education  
+**Carnegie Mellon University (CMU)**  
+*Pittsburgh, PA*  
+PHD IN COMPUTER SCIENCE  
+August 2025 - present  
+- Advisor: Dr. Sarah Scheffler  
+
 **Massachusetts Institute of Technology (MIT)**  
 *Cambridge, MA*  
 M.ENG. IN ELECTRICAL ENGINEERING AND COMPUTER SCIENCE  
@@ -26,7 +32,36 @@ September 2018 - May 2022
 
 ---
 
+## Research Interests  
+
+My broad research interests lie in the application of cryptography to solve social problems and protect privacy. I am interested in bringing formal, provable security to real-world computer systems. I am particularly interested in problems with competing tensions between authenticity, anonymity, and efficiency.
+
+---
+
 ## Research Experience  
+
+**Carnegie Mellon University - CyLab**  
+*Pittsburgh, PA*  
+ADVISOR: DR. SARAH SCHEFFLER  
+June 2026 - present  
+**ANONYMOUS IMAGE PROVENANCE**  
+
+- This project analyzes the technical standard for image provenance from the Coalition for Content Provenance and Authenticity (C2PA). My work first formalized the security properties the current version of C2PA claims to have. Then, I address dangerous surveillance concerns in C2PA by analyzing and formalizing the properties desirable in an ideal anonymous image provenance system. I find several fundamental incompatibilities between these properties, both from results existing in the literature in different contexts and my own novel results. Given this, I improve existing cryptographic constructions and propose candidate system architectures to achieve different versions of anonymous C2PA that make different trade-offs between these properties.  
+- Formalized security properties of C2PA v2.5 for use in cryptography proofs by systems using C2PA as a module.  
+- Derived formal cryptographic and system property desiderata from needs of different actors and systems using C2PA, including generator anonymity, key revocation, and generators' efficiency.  
+- Developed a novel generic construction for shrinkable ring signatures allowing for shrinking to arbitrary subrings.  
+- Proved that shrinking a list of signatures requires linear work in the number of signatures being shrunk, and combined with existing results in the literature, demonstrated that the full set of properties one might desire from an anonymous C2PA system is unachievable in a single scheme in a scalable way.  
+- Architected candidate systems across the trade-off space and analyzed their efficiency and viability.  
+
+**Carnegie Mellon University - CyLab**  
+*Pittsburgh, PA*  
+ADVISOR: DR. SARAH SCHEFFLER  
+August 2025 - June 2026  
+**ZERO-KNOWLEDGE BARCODE SCANNING**  
+
+- Design and implementation of a zero-knowledge proof system for barcode decoding from images with application to private online attribute verification using physical IDs.  
+- Designed, implemented, and measured end-to-end zero-knowledge proof system for PDF417 barcode decoding, achieving an 18x speedup and using 6.9x less RAM.  
+- Developed technical gadgets of independent interest for arithmetization of highly data-dependent algorithms for zero-knowledge proofs.  
 
 **Massachusetts Institute of Technology - CSAIL**  
 *Cambridge, MA*  
@@ -52,15 +87,9 @@ Summer 2021
 
 ---
 
-## Research Interests  
-
-- Application of existing cryptographic techniques to computer systems in novel ways to address real-world problems and bring cryptographic rigor and proofs to computer systems security  
-- Increasing the practicality, deployability, and usability of existing cryptographic techniques  
-
----
-
 ## Publications  
 
+- **Kelsey Merrill**, Anna Woo, Wenting Zheng, Sarah Scheffler. Cryptology ePrint Archive, Paper 2026/1567. *Zero Knowledge Barcode Decoding with Application to Private Online Attribute Verification.* [https://eprint.iacr.org/2026/1567](https://eprint.iacr.org/2026/1567)
 - **Kelsey Merrill**, Zachary Newman, Santiago Torres-Arias, Karen Sollins. CCS 2023. *Speranza: Usable, privacy-friendly software signing.* [https://doi.org/10.1145/3576915.3623200](https://doi.org/10.1145/3576915.3623200)
 
 ---
@@ -113,11 +142,11 @@ Spring 2020 - Spring 2022
 
 **Jane Street Capital**  
 *SOFTWARE ENGINEER, AI TOOLS TEAM*  
-August 2023 - Present  
-- Build and maintain scalable and available software system for managing firmwide requests to external LLM vendors including rate limiting, priority queuing, and fairness enforcement.  
-- Design, build, and maintain AI semantic search service for internal use  
-- Respond to live production incidents  
-- Advise and consult on LLM applications throughout the firm  
+August 2023 - August 2025  
+- Built and maintained scalable and available software system for managing firmwide requests to external LLM vendors including rate limiting, priority queuing, and fairness enforcement.  
+- Designed, built, and maintained AI semantic search service for internal use  
+- Responded to live production incidents  
+- Advised and consulted on LLM applications throughout the firm  
 
 *SOFTWARE ENGINEERING INTERN*  
 Summer 2022  
@@ -143,9 +172,9 @@ June 2019 - February 2020
 
 **Cecilia Chorus of New York**  
 *DEVELOPMENT CO-CHAIR AND BOARD MEMBER*  
-July 2024 - Present  
-- Lead and organize grant writing and applications for community chorus of approximately 150 members resulting in $40,000 in funding as of November 2024 (more applications pending)  
-- Participate in board meetings and whole-chorus decision-making  
+July 2024 - June 2025  
+- Led and organized grant writing and applications for community chorus of approximately 150 members resulting in over $100,000 in funding  
+- Participated in board meetings and whole-chorus decision-making  
 
 **MITvote**  
 *UNDERGRADUATE CO-CHAIR*  
@@ -164,18 +193,13 @@ January 2021 - December 2021
 
 ---
 
-## Skills  
-
-**Programming**  
-- **Proficient:** Python, OCaml  
-- **Competent:** Rust, C/C++  
-- **Beginner:** MATLAB, Java, Golang  
-
----
-
 ## References
 
 *contact information available upon request*
+
+**Professor Sarah Scheffler**  
+Department of Software and Societal Systems  
+Carnegie Mellon University
 
 **Dr. Karen R. Sollins**  
 Department of Electrical Engineering and Computer Science  
@@ -186,10 +210,6 @@ Department of Electrical and Computer Engineering
 Purdue University
 
 **Professor Henry Corrigan-Gibbs**  
-Department of Electrical Engineering and Computer Science  
-Massachusetts Institute of Technology
-
-**Professor Steven B. Leeb**  
 Department of Electrical Engineering and Computer Science  
 Massachusetts Institute of Technology
 
